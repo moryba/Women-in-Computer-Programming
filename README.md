@@ -42,4 +42,4 @@ The main findings of the code can be found at the post available [here.](https:/
 
 # License
 
-Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the following link available [here](https://insights.stackoverflow.com/survey).
+You can find the Licensing for the data and other descriptive information at the following link available [here](https://insights.stackoverflow.com/survey).

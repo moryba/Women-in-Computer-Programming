@@ -5,7 +5,7 @@
 1. [Installation](https://github.com/moryba/Women-in-Computer-Programming/blob/master/README.md#Installation)
 2. [Usage](https://github.com/moryba/Women-in-Computer-Programming/blob/master/README.md/#Usage)
 3. [Documentation](https://github.com/moryba/Women-in-Computer-Programming/blob/master/README.md/#Documentation)
-4. [Project motivation](https://github.com/moryba/Women-in-Computer-Programming/blob/master/README.md/#Project#motivation)
+4. [Project motivation](https://github.com/moryba/Women-in-Computer-Programming/blob/master/README.md/#Project-motivation)
 5. [Result](https://github.com/moryba/Women-in-Computer-Programming/blob/master/README.md/#Result)
 6. [License](https://github.com/moryba/Women-in-Computer-Programming/blob/master/README.md/#License)
 

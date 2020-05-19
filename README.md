@@ -40,6 +40,6 @@ only women who are super qualified(i.e. they have a bachelor's degree, a master'
 
 The main findings of the code can be found at the post available [here.](https://medium.com/@moryba.kouate/whats-the-situation-in-italy-for-women-in-the-world-of-computer-programming-7782bbb8a54b?sk=99f3085cfa775e1a1bc8511f2c7cb574)
 
-## License
+# License
 
 Must give credit to Stack Overflow for the data. You can find the Licensing for the data and other descriptive information at the following link available [here](https://insights.stackoverflow.com/survey).

@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-1. [Installation](###1. Installation)
+1. [Installation](###1. Installation-1-)
 2. Usage
 3. Documentation
 4. Project motivation

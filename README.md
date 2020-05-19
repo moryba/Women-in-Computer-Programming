@@ -29,7 +29,7 @@ You can find the source of the data that I have used for my analysis on the foll
 ## Project motivation
 For this project, I was interestested in using Stack Overflow data from 2017 to 2019 to better understand:
 
-- what is the situation of women in Italy in the programming world compared to man?
+- what is the situation of women in Italy in the programming world compared to men?
 - what is the identikit of women who work in computer programming in Italy? What are their qualifications?
 - Instead in USA, what is the situation of super qualified women in tech ?
 

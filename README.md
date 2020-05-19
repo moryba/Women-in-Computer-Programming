@@ -35,7 +35,7 @@ For this project, I was interestested in using Stack Overflow data from 2017 to 
 
 # Result 
 
-Thanks to this analysis I observed not only that the number of women in Computer Progrogramming is very low, but I also discover that
+Thanks to this analysis I observed not only that the number of women in Computer Progrogramming is very low, but I also discovered that
 only women who are super qualified(i.e. they have a bachelor's degree, a master's degree or a PhD) try to take part in this field. That means there are a huge number of women who don't know this world because of cultural stereotype and exclusion.
 
 The main findings of the code can be found at the post available [here.](https://medium.com/@moryba.kouate/whats-the-situation-in-italy-for-women-in-the-world-of-computer-programming-7782bbb8a54b?sk=99f3085cfa775e1a1bc8511f2c7cb574)

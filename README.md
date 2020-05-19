@@ -15,10 +15,10 @@ The code should run with no issues using Python versions 3.*.
 ## 2. Usage
 
 ```python
-
 import pandas 
 import numpy  
 import matplotlib.pyplot 
+from pandasql import sqldf
 ```
 
 ## 3.Documentation

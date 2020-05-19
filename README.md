@@ -2,13 +2,13 @@
 
 ## Table of contents
 
-1. [Installation](###Installation-1-)
+1. [Installation](1. Installation)
 2. Usage
 3. Documentation
 4. Project motivation
 5. Result
 
-## 1. [Installation](###Installation-1-)
+## 1. Installation
 
 The code should run with no issues using Python versions 3.*.
 

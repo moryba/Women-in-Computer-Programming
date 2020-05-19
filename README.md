@@ -2,7 +2,7 @@
 
 ## Table of contents
 
-1. [Installation](#-1)
+1. [Installation](https://github.com/moryba/Women-in-Computer-Programming/edit/master/README.md/Installation)
 2. Usage
 3. Documentation
 4. Project motivation

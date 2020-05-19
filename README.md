@@ -2,8 +2,8 @@
 
 ## Table of contents
 
-1. [Installation](https://github.com/moryba/Women-in-Computer-Programming/edit/master/README.md/Installation)
-2. [Usage](https://github.com/moryba/Women-in-Computer-Programming/edit/master/README.md/Usage)
+1. [Installation](https://github.com/moryba/Women-in-Computer-Programming/edit/master/README.md/#Installation)
+2. [Usage](https://github.com/moryba/Women-in-Computer-Programming/edit/master/README.md/#Usage)
 3. Documentation
 4. Project motivation
 5. Result

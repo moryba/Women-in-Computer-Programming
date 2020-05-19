@@ -8,7 +8,7 @@
 4. Project motivation
 5. Result
 
-## 1. Installation
+## 1. [Installation](###Installation-1-)
 
 The code should run with no issues using Python versions 3.*.
 
